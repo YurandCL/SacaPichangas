@@ -1,0 +1,41 @@
+.imgRedonda {
+	height: 50px;
+	width: 50px;
+	border-radius: 25px;
+	border: 5px solid #666;
+	/*position: absolute;*/
+	/*opacity: 0.8;*/
+}
+#containerregister {
+	float: center;
+	width: 800px;
+	height: 789px;
+	background-color: white;
+	opacity: 0.9;
+}
+label {
+	color: black;
+}
+.form-control {
+	color: black;
+	background-color: #eee;
+	border-radius: 5px;
+	border: 1px solid #39c;
+	outline: none;
+	text-align: left;
+}
+.py-5 {
+	background-image: linear-gradient(white, black, red);
+}
+/*
+body{
+    background-image: url("registro.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.75;
+}
+
+label{
+    opacity: 1 !important;
+    color:white !important;
+}*/
